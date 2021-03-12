@@ -6,7 +6,7 @@ Udacity Data Analyst 2021: Wrangle and Analyze Data - WeRateDogs twitter account
 
 # Project Overview
 ## Introduction
-The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs.
+The dataset that I will be wrangling (and analyzing and visualizing) the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs.
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 6000+ of their tweets as they stood on August 1, 2017. 
 
